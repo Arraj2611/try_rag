@@ -1,0 +1,4 @@
+streamlit
+langchain
+chromadb
+langchain_community
